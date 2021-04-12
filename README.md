@@ -1,5 +1,3 @@
 # adilbimo.github.io
 
-#
-
-#Belajar Web
+_Belajar Web_
